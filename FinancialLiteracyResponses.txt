@@ -1,0 +1,16 @@
+1. What did you learn from this assignment that you didn’t know before?
+The impact of financial literacy over time especially with the visualization on the graph that shows the significant wealth disparity.
+
+2. How much more debt did nfl end up paying compared to fl?
+fl, nfl = [-125639, -470002]
+nfl ended up paying $344363 more debt compared to fl
+
+3. How many more years was nfl in debt compared to fl?
+nfl was 7 years in debt 4 more years compared to fl who was 3 years in debt
+
+4. How much more money does fl have at the end of 40 years compared to nfl?
+fl has more $2175229 compared to nfl at the end of the 40 years
+
+5. You don’t need to test each function to answer this question, but which decision do you think had the greatest effect on the 
+disparity between nfl and fl?
+savings (mutual fund v savings account)
