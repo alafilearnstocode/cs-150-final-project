@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the code for my final CS-150 project at Northwestern University during the winter quarter. The program simulates how much money a financially literate person (`fl`) versus a non-financially literate person (`nfl`) will have after 40 years of making small financial decisions. The simulation tracks savings, debt, rent, mortgage payments, and other financial metrics to demonstrate the long-term impact of financial literacy.
+This repository contains the code for my final CS-150 project at Northwestern University during the winter quarter. The program simulates how much money a financially literate person (`fl`) versus a non-financially literate person (`nfl`) will have after 40 years of making small financial decisions. The simulation tracks savings, debt, rent, mortgage payments to demonstrate the long-term impact of financial literacy.
 
 
 ## Key Features
