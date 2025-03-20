@@ -1,10 +1,4 @@
 
-# CS-150 Final Project: Financial Literacy Simulation
-
-**Author**: Alafi Dumo  
-**Date**: 20th March 2025  
-
-
 ## Overview
 
 This repository contains the code for my final CS-150 project at Northwestern University during the winter quarter. The program simulates how much money a financially literate person (`fl`) versus a non-financially literate person (`nfl`) will have after 40 years of making small financial decisions. The simulation tracks savings, debt, rent, mortgage payments, and other financial metrics to demonstrate the long-term impact of financial literacy.
@@ -101,4 +95,4 @@ A graph will display two lines:
 
 
 
-# cs-150-final-project
+
