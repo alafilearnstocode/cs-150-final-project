@@ -24,6 +24,17 @@ class Person:
         self.debt = debt
         self.loan = loan
 
+    def __str__(self):
+        '''
+        Print the person's current balances.
+        Args:
+        - None
+        Return:
+        - String containing the person's financial information
+        '''
+        return f"Savings: {self.savings}\nChecking: {self.checking}\nDebt: {self.debt}\nLoan: {self.loan}"
+        
+
     def savings_bal(self, is_fl):
         '''
         Update the savings balance for the person after a year depending on whether they invest in a mutual fund or a savings account.
